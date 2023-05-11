@@ -34,7 +34,6 @@ class Program
         Console.Write("Enter a list of real numbers (separated by spaces): ");
         int[] n = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
         Console.WriteLine("-------------------------------------------");
-        Console.Write("The 3 largest numbers are: ");
         Console.WriteLine(string.Join(" ", n.OrderByDescending(x => x).Take(3)));
         Console.WriteLine("-------------------------------------------");
         Console.WriteLine();
