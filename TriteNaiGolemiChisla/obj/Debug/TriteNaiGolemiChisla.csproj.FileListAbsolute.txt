@@ -1,0 +1,8 @@
+D:\Програмиране\new tasks\LambdaIzraziiLinq\TriteNaiGolemiChisla\bin\Debug\TriteNaiGolemiChisla.exe.config
+D:\Програмиране\new tasks\LambdaIzraziiLinq\TriteNaiGolemiChisla\bin\Debug\TriteNaiGolemiChisla.exe
+D:\Програмиране\new tasks\LambdaIzraziiLinq\TriteNaiGolemiChisla\bin\Debug\TriteNaiGolemiChisla.pdb
+D:\Програмиране\new tasks\LambdaIzraziiLinq\TriteNaiGolemiChisla\obj\Debug\TriteNaiGolemiChisla.csproj.AssemblyReference.cache
+D:\Програмиране\new tasks\LambdaIzraziiLinq\TriteNaiGolemiChisla\obj\Debug\TriteNaiGolemiChisla.csproj.SuggestedBindingRedirects.cache
+D:\Програмиране\new tasks\LambdaIzraziiLinq\TriteNaiGolemiChisla\obj\Debug\TriteNaiGolemiChisla.csproj.CoreCompileInputs.cache
+D:\Програмиране\new tasks\LambdaIzraziiLinq\TriteNaiGolemiChisla\obj\Debug\TriteNaiGolemiChisla.exe
+D:\Програмиране\new tasks\LambdaIzraziiLinq\TriteNaiGolemiChisla\obj\Debug\TriteNaiGolemiChisla.pdb

@@ -1,0 +1,8 @@
+D:\Програмиране\new tasks\LambdaIzraziiLinq\SortiraneNaKratkiDumi\bin\Debug\SortiraneNaKratkiDumi.exe.config
+D:\Програмиране\new tasks\LambdaIzraziiLinq\SortiraneNaKratkiDumi\bin\Debug\SortiraneNaKratkiDumi.exe
+D:\Програмиране\new tasks\LambdaIzraziiLinq\SortiraneNaKratkiDumi\bin\Debug\SortiraneNaKratkiDumi.pdb
+D:\Програмиране\new tasks\LambdaIzraziiLinq\SortiraneNaKratkiDumi\obj\Debug\SortiraneNaKratkiDumi.csproj.AssemblyReference.cache
+D:\Програмиране\new tasks\LambdaIzraziiLinq\SortiraneNaKratkiDumi\obj\Debug\SortiraneNaKratkiDumi.csproj.SuggestedBindingRedirects.cache
+D:\Програмиране\new tasks\LambdaIzraziiLinq\SortiraneNaKratkiDumi\obj\Debug\SortiraneNaKratkiDumi.csproj.CoreCompileInputs.cache
+D:\Програмиране\new tasks\LambdaIzraziiLinq\SortiraneNaKratkiDumi\obj\Debug\SortiraneNaKratkiDumi.exe
+D:\Програмиране\new tasks\LambdaIzraziiLinq\SortiraneNaKratkiDumi\obj\Debug\SortiraneNaKratkiDumi.pdb
